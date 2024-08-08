@@ -1,13 +1,6 @@
 import React from "react";
-import { Footer, Label, TextInput } from "flowbite-react";
-import {
-  BsFacebook,
-  BsGithub,
-  BsInstagram,
-  BsMailbox,
-  BsMailbox2,
-  BsTwitter,
-} from "react-icons/bs";
+import { Footer, TextInput } from "flowbite-react";
+import { BsFacebook, BsGithub, BsInstagram, BsTwitter } from "react-icons/bs";
 import { SiMinutemailer } from "react-icons/si";
 import logo from "../assets/logo.png";
 
