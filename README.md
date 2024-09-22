@@ -2,7 +2,8 @@
 
 Welcome to **Nexcent**, a sophisticated and dynamic website UI designed specifically for agencies. This project utilizes vanilla HTML, Tailwind CSS, and JavaScript to provide a seamless and visually appealing user experience.
 
-![Nexcent Website Preview](C:/Users/User/OneDrive/ドキュメント/ALL%20MY%20CODES/Nexcent%20-%20Website%20UI%20for%20Agencie/public/Screenshot%202024-08-02%20075054.png)
+![Nexcent Website Preview](./public/Screenshot%202024-08-02%20075054.png)
+
 
 ## Features
 
