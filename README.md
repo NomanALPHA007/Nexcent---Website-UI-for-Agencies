@@ -2,10 +2,12 @@
 
 Welcome to **Nexcent**, a sophisticated and dynamic website UI designed specifically for agencies. This project utilizes vanilla HTML, Tailwind CSS, and JavaScript to provide a seamless and visually appealing user experience.
 
+![Nexcent Website Preview](C:/Users/User/OneDrive/ドキュメント/ALL%20MY%20CODES/Nexcent%20-%20Website%20UI%20for%20Agencie/public/Screenshot%202024-08-02%20075054.png)
+
 ## Features
 
 - **Responsive Design**: Nexcent ensures optimal viewing across a wide range of devices, including desktops, tablets, and mobile phones. The layout adjusts smoothly to different screen sizes for a consistent user-friendly experience.
-  
+
 - **Tailwind CSS Integration**: Tailwind CSS powers the styling in Nexcent, enabling developers to build quickly with a utility-first framework while keeping the code clean, maintainable, and easy to extend.
 
 - **Vanilla HTML**: The foundation of Nexcent is built on plain HTML, focusing on simplicity and accessibility, making it easy to understand and contribute to the project.
@@ -17,11 +19,13 @@ Welcome to **Nexcent**, a sophisticated and dynamic website UI designed specific
 To get started with Nexcent on your local machine:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/NomanALPHA007/Nexcent---Website-UI-for-Agencies.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd Nexcent---Website-UI-for-Agencies
    ```
@@ -39,12 +43,26 @@ To get started with Nexcent on your local machine:
 If you'd like to contribute to Nexcent, follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add a new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
+2. Create a new branch:
+
+   ```bash
+   git checkout -b feature-branch
+   ```
+
+3. Make your changes and commit them:
+
+   ```bash
+   git commit -m 'Add a new feature'
+   ```
+
+4. Push to the branch:
+
+   ```bash
+   git push origin feature-branch
+   ```
+
 5. Create a pull request to discuss your changes.
 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
